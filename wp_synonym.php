@@ -4,10 +4,10 @@ Plugin Name: WP Synonym Plugin
 Plugin URI: http://wordpress.org/extend/plugins/wp-synonym-plugin/
 Description: Go to your post editing page and look up a word using the form to the right (under <em>WP Synonym Plugin</em>).
 Version: 1.5
-Author: Ben Koren	
+Author: Gal Koren	
 */
 
-/*  Copyright 2010 Ben Koren
+/*  Copyright 2010
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
